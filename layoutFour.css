@@ -1,0 +1,28 @@
+#div{
+    width: 500px;
+    height: 500px;
+    display: block;
+}
+
+
+#one{
+    width: 350px;
+    height: 400px;
+   
+    position: relative;
+    display: inline-block;
+   
+    left: 7px;
+    background-color: black;
+
+    
+}
+#two{
+    width: 150px;
+    height: 400px;
+    position: relative;
+    left: 370px;
+    bottom: 404px;
+    background-color: black;
+     
+       }

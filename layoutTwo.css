@@ -1,0 +1,36 @@
+#div{
+    width: 500px;
+    height: 500px;
+    display: block;
+}
+
+
+#one{
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    margin: 5px;
+ 
+    
+}
+#two{
+    width: 350px;
+    height: 400px;
+   
+    position: relative;
+    display: inline-block;
+    top: 10px;
+    left: 6px;
+    background-color: black;
+        
+    
+    }
+#three{
+    
+    width: 150px;
+    height: 400px;
+    position: relative;
+    bottom: 397px;
+    left:360px;
+    background-color: black;
+}
